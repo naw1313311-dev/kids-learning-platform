@@ -1,7 +1,9 @@
 {
   "name": "kids-learning-platform",
   "version": "1.0.0",
-  "description": "منصة تعليمية تفاعلية للحروف والأرقام",
+  "description": "منصة تعليمية تفاعلية للحروف والأرقام للأطفال",
+  "author": "Your Company",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,19 +12,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.15",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "framer-motion": "^11.3.19",
-    "react-icons": "^5.3.0"
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "framer-motion": "11.3.19",
+    "react-icons": "5.3.0"
   },
   "devDependencies": {
-    "@types/node": "^20.14.12",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.39",
-    "tailwindcss": "^3.4.10",
-    "typescript": "^5.5.4"
+    "@types/node": "20.14.12",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.10",
+    "typescript": "5.5.4"
   }
 }

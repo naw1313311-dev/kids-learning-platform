@@ -1,5 +1,5 @@
 import { LearningApp } from '@/components/learning-app';
 
-export default function Home() {
+export default function HomePage() {
   return <LearningApp />;
 }

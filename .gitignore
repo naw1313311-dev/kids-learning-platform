@@ -4,3 +4,9 @@ out
 npm-debug.log*
 .DS_Store
 .env*
+*.pem
+.vercel
+.env.local
+.env.production.local
+.env.development.local
+.env.test.local

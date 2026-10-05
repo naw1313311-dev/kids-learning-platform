@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'منصة تعليمية للأطفال',
-  description: 'تعلم الحروف والأرقام بطريقة ممتعة وتفاعلية',
+  title: 'أبجد | منصة تعليمية للأطفال',
+  description: 'منصة تعليمية تفاعلية للحروف الهجائية والأرقام للأطفال',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
